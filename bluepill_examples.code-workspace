@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "blink"
+		},
+		{
+			"name": "OLED_LCD",
+			"path": "OLED_LCD"
+		},
+		{
+			"name": "basic_IRQ",
+			"path": "basic_IRQ"
+		},
+		{
+			"name": "DIO_RW",
+			"path": "DIO_RW"
+		},
+		{
+			"name": "AIO_RW",
+			"path": "AIO_RW"
+		}
+	],
+	"settings": {}
+}
